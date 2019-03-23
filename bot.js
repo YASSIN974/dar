@@ -65,7 +65,7 @@ client.on('ready', () => {
     console.log(`in ${client.guilds.size} servers `)
     console.log(`[Codes] ${client.users.size}`)
     client.user.setStatus("dnd")
- client.user.setGame(`Welcome to M.O.F`,`https://www.twitch.tv/skwadraa`);
+ client.user.setGame(`Welcome to ĐĚĂŤH ĂŇĞĔL`,`https://www.twitch.tv/skwadraa`);
 });
 
  
